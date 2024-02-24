@@ -25,11 +25,11 @@ plugins:
 
 
 # Site owner
-owner:
-  name:
-  email:
+owner: 
+  name: Cha, Min-Joeng
+  email: habuge2@naver.com
   twitter:
-  google:
+  google: 
     ad-client:
     ad-slot:
   bio:
